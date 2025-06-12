@@ -1,0 +1,51 @@
+# ninja log v5
+19	198	1749714466212060339	rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+19	198	1749714466212060339	rook_autogen/timestamp	344ee6dad00b9b76
+199	1253	1749714467264402465	CMakeFiles/rook.dir/rook.cpp.o	faa740233b4cacdc
+69	105	1749713939038778980	CMakeFiles/problem05.dir/problem05_autogen/mocs_compilation.cpp.o	f66cfc91bd6749b8
+51	1344	1749714030806209825	CMakeFiles/problem05.dir/problem05.cpp.o	3c2f9fd0ed092da9
+19	198	1749714466212060339	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+7	51	1749714029518445422	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/problem05_autogen/timestamp	493ef0f638af2563
+7	51	1749714029518445422	problem05_autogen/timestamp	493ef0f638af2563
+1344	1530	1749714030995937302	problem05	cc63d90c339274d4
+0	63	1749713727417924253	/Users/newowner/CLionProjects/chessbord with qt/cmake-build-debug/problem04_autogen/mocs_compilation.cpp	b6f23eef8685f155
+0	63	1749713727417924253	problem04_autogen/timestamp	b6f23eef8685f155
+1264	1370	1749713728731823292	problem04	c1116a439de13041
+1253	1446	1749714467458411468	rook	898f73b2fe9c82c4
+7	51	1749714029518445422	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/problem05_autogen/mocs_compilation.cpp	493ef0f638af2563
+199	251	1749714466266156866	CMakeFiles/rook.dir/rook_autogen/mocs_compilation.cpp.o	913f002bd1916456
+0	63	1749713727417924253	/Users/newowner/CLionProjects/chessbord with qt/cmake-build-debug/problem04_autogen/timestamp	b6f23eef8685f155
+19	198	1749714466212060339	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/timestamp	344ee6dad00b9b76
+0	63	1749713727417924253	problem04_autogen/mocs_compilation.cpp	b6f23eef8685f155
+7	51	1749714029518445422	problem05_autogen/mocs_compilation.cpp	493ef0f638af2563
+1	534	1749714477368313240	build.ninja	f4114a2dc071994d
+9	61	1749714498109995625	rook_autogen/timestamp	344ee6dad00b9b76
+9	61	1749714498109995625	rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+9	61	1749714498109995625	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/timestamp	344ee6dad00b9b76
+9	61	1749714498109995625	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+62	994	1749714499037712483	CMakeFiles/rook.dir/rook.cpp.o	faa740233b4cacdc
+994	1169	1749714499215160985	rook	898f73b2fe9c82c4
+6	54	1749714512713938128	rook_autogen/timestamp	344ee6dad00b9b76
+6	54	1749714512713938128	rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+6	54	1749714512713938128	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/timestamp	344ee6dad00b9b76
+6	54	1749714512713938128	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+55	1032	1749714513687281123	CMakeFiles/rook.dir/rook.cpp.o	faa740233b4cacdc
+1032	1205	1749714513861996714	rook	898f73b2fe9c82c4
+6	53	1749714677899346356	rook_autogen/timestamp	344ee6dad00b9b76
+6	53	1749714677899346356	rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+6	53	1749714677899346356	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/timestamp	344ee6dad00b9b76
+6	53	1749714677899346356	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+53	1296	1749714679136513744	CMakeFiles/rook.dir/rook.cpp.o	faa740233b4cacdc
+1296	1496	1749714679339478747	rook	898f73b2fe9c82c4
+6	51	1749714700775729304	rook_autogen/timestamp	344ee6dad00b9b76
+6	51	1749714700775729304	rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+6	51	1749714700775729304	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/timestamp	344ee6dad00b9b76
+6	51	1749714700775729304	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+52	1204	1749714701923870262	CMakeFiles/rook.dir/rook.cpp.o	faa740233b4cacdc
+1204	1379	1749714702102301649	rook	898f73b2fe9c82c4
+14	56	1749714732396489215	rook_autogen/timestamp	344ee6dad00b9b76
+14	56	1749714732396489215	rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+14	56	1749714732396489215	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/timestamp	344ee6dad00b9b76
+14	56	1749714732396489215	/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/rook_autogen/mocs_compilation.cpp	344ee6dad00b9b76
+56	1140	1749714733475633300	CMakeFiles/rook.dir/rook.cpp.o	faa740233b4cacdc
+1140	1314	1749714733650807460	rook	898f73b2fe9c82c4

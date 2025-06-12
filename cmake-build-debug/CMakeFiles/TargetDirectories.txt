@@ -1,0 +1,5 @@
+/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/CMakeFiles/rook.dir
+/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/CMakeFiles/rook_autogen_timestamp_deps.dir
+/Users/newowner/CLionProjects/chessbord with rook with qt/cmake-build-debug/CMakeFiles/rook_autogen.dir
